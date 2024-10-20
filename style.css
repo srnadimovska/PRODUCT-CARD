@@ -65,7 +65,8 @@
     background-color: rgb(223, 42, 163);
 }
 .product img {
-    width:100%;
+    width:fit-content;
+    
 }
 .product1 
 {
@@ -76,12 +77,13 @@
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 300;
     padding: 20px 40px;
-    width:19%;
+    width:fit-content;
     margin: 20px 40px;
     font-weight: 600;
     border-style:solid;
     border-color:rgb(213, 124, 184);
     border-width: 20px;
+    
    
     
 }
@@ -105,17 +107,20 @@
     background-color:  rgb(223, 42, 163);
 }
 .product1 img {
-    width:100%;
+    width:fit-content;
+    
     
 }
-/* .align-div { */
-    /* border: 1px solid white; */
-    /* padding:20px; */
-    /* text-align:center; */
-/* } */
-/* .align-div .product {
+ .align-div { 
+    border: 1px solid white; 
+     padding:20px; 
+    text-align: center; 
+ } 
+.align-div .product {
     vertical-align: middle;
+    display: inline-block;
 }
 .align-div .product1 {
     vertical-align: middle;
-} */
+    display: inline-block;
+} 
