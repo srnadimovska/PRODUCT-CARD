@@ -65,7 +65,8 @@
     background-color: rgb(223, 42, 163);
 }
 .product img {
-    width:fit-content;
+    width: 200px;
+    height: 200px;
     
 }
 .product1 
@@ -107,7 +108,8 @@
     background-color:  rgb(223, 42, 163);
 }
 .product1 img {
-    width:fit-content;
+    width: 200px;
+    height: 200px;
     
     
 }
